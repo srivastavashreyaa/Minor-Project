@@ -2,7 +2,7 @@
 =============================================================================
  REVIEWER DEFENSE ANALYSES — Fixes for All 5 Potential Concerns
  Research: Digital Inclusion as a Driver of Circular Economy Behavior in India
- Author: Yash Chauhan
+ Author: Shreya Srivastava
  Date: February 2026
 =============================================================================
  This script runs 5 additional analyses to pre-emptively address every
